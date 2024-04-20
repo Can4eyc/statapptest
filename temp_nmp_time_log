@@ -1,0 +1,13 @@
+
+> example-app@ build /home/alex/git_tests/example-app-nodejs-backend-react-frontend
+> webpack --mode development --entry ./src/client/index.js --output ./static/bundle.js
+
+Hash: 2cedf5bb4e6f93c29f5c
+Version: webpack 4.47.0
+Time: 1324ms
+Built at: 04/02/2024 6:16:48 PM
+    Asset     Size  Chunks             Chunk Names
+bundle.js  978 KiB    null  [emitted]  null
+Entrypoint null = bundle.js
+[./src/client/index.js] 393 bytes {null} [built]
+    + 13 hidden modules
